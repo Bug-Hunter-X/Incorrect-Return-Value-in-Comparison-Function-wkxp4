@@ -1,0 +1,2 @@
+# Incorrect Return Value in Comparison Function
+This example demonstrates a common error in Python functions: incorrect handling of edge cases. The `my_function` compares two values and is intended to return the greater value. However, it fails to handle the scenario where both inputs are equal, returning one of the inputs arbitrarily.
